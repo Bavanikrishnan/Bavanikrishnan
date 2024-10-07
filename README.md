@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306618.jpg)
 <h1 align="center">Hi 👋, I'm Bavanikrishnan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding width="400" src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306545.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1727827200&semt=ais_hybrid">
